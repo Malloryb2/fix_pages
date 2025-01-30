@@ -79,7 +79,9 @@ article figure {
   float: right;
 }
 article figcaption {
-  font-size: inherit;
+  font-size: 0.9rem;
+  font-weight: 300;
+  font-family: 'Times New Roman', Times, serif;
 }
 .pagination {
   margin-top: 2em;
