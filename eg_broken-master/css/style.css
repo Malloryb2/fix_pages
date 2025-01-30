@@ -115,7 +115,7 @@ a.button:hover, a.button:active {
   float: left;
   font-size: 5rem;
   line-height: 1;
-  margin-right: 10px
+  margin-right: 10px;
 }
 /*-- changes header and article width on small screens --*/
 @media screen and (max-width: 768px) {
