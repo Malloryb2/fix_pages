@@ -48,8 +48,7 @@ nav a.active {
 /*-- Hero Unit Styles--*/
 header {
   width: 510px;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 2em auto;
 }
 header img {
   width: 100%;
@@ -67,6 +66,7 @@ article {
   width: 768px;
   font-size: 18px;
   line-height: 1.3;
+  margin: 0 auto;
 }
 article figure {
   width: 39%;
