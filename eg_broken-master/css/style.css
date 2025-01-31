@@ -114,8 +114,9 @@ a.button:hover, a.button:active {
 .dropcap {
   float: left;
   font-size: 5rem;
-  line-height: 0.7;
-  margin-right: -0.5;
+  line-height: 1;
+  margin-right: 10px;
+  Font-weight: bold;
 }
 /*-- changes header and article width on small screens --*/
 @media screen and (max-width: 768px) {
