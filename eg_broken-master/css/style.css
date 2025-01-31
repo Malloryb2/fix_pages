@@ -113,7 +113,7 @@ a.button:hover, a.button:active {
 }
 .dropcap {
   float: left;
-  font-size: 5rem;
+  font-size: 10rem;
   line-height: 1;
   margin-right: 0.2em;
 }
